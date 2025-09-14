@@ -15,11 +15,17 @@ The project uses **Natural Language Processing (NLP)** techniques and a trained 
 
 ## 📂 Project Structure
 
+
 ├── app.py # Streamlit application
+
 ├── spam.csv # Dataset used for training
+
 ├── model.pkl # Trained ML model
+
 ├── vectorizer.pkl # Fitted TF-IDF vectorizer
+
 ├── nltk.txt # NLTK resources required
+
 └── README.md # Project documentation
 
 
